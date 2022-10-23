@@ -60,7 +60,7 @@ client.on('message', msg => {
 
 });
 
-client.login("MTAzMDM4NjU3OTA2NTI5NDg0OA.G2vav2.CLzCiP-yC4IfKggZxN-pZJAM18O8XGUAXJ1Rak");
+client.login("MTAzMDM4NjU3OTA2NTI5NDg0OA.Gz0MdP.rRPhIbTzKlro993HYfCNj_h-DmwjoNN7yWYvBk");
 
 const http = require("http");
 const express = require("express");
